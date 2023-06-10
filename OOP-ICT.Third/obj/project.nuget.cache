@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "afoeBUEC2T6kSE5nC116SoANQQZgLh7YoNvXXWL5jjtUWzBHvra6ZaOGJKV17RZ4bWO2yuPjDLCts0B9mIZDeQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Redmi\\Documents\\GitHub\\Veronika-Chagina\\OOP-ICT.Third\\OOP-ICT.Third.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Redmi\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.14\\microsoft.netcore.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\Redmi\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.14\\microsoft.windowsdesktop.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\Redmi\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.14\\microsoft.aspnetcore.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\Redmi\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.14\\microsoft.netcore.app.host.win-x64.6.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
