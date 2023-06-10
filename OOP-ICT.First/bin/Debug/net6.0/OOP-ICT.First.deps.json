@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "OOP-ICT.First/1.0.0": {
+        "dependencies": {
+          "JetBrains.Annotations": "2023.2.0-eap1"
+        },
+        "runtime": {
+          "OOP-ICT.First.dll": {}
+        }
+      },
+      "JetBrains.Annotations/2023.2.0-eap1": {
+        "runtime": {
+          "lib/netstandard2.0/JetBrains.Annotations.dll": {
+            "assemblyVersion": "4242.42.42.42",
+            "fileVersion": "2023.2.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OOP-ICT.First/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "JetBrains.Annotations/2023.2.0-eap1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-dslca+VeCvG0dVLLdf/UnSF+rKg9CG+cxaIo+6aIaXNdAiskGbSqJ1gm97cTDulEP91c2z9v4xedI4kt/WhixA==",
+      "path": "jetbrains.annotations/2023.2.0-eap1",
+      "hashPath": "jetbrains.annotations.2023.2.0-eap1.nupkg.sha512"
+    }
+  }
+}
